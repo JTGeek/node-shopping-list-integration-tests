@@ -1,9 +1,0 @@
-language: node_js
-node_js: node
-deploy:
-  provider: heroku
-  api_key:
-    secure: EcUoPhN3/LpViAyMCVZq4I5baiAImWClkfH1Tz2kt6EbghCvm2gmZ5CgBiBxQOnNPSSLkn++Ke/zXsrjZU8C0up5YiHtUowo4Dp7LCnsXifhBnnMLqxo1qjeBnsN2ksSIeXp1Ik35t8g6MUtqiPzsCE/c+eznfb1nv6Pz6r+CSQ5uTvrOLWEz0P/vu4/N61UxbTKvpWQxx5NpenQo5UEs5bZJYIHJiz5akHbqmPu4xCKws+kaPAIBFgsic7gRQh7CiVHQcr1yt5doELP23IQPgNyrZU6ReNdSzJh22eBACwDm39wmQrUqXUfO3NHhSFSCDAJ95YUDJeRI8YRIdRkNsPvXCnGaqrJtOmffrkjle3kUMpsrWL3+Ll4sMUeqFHUUbyJ0lYxJkWMOrCyqmnwRxJgGFm7FIjChNKUr5OdpDCImMr809ztjEf9KgLanYAe+SdcVjrujB7dmkaev05Tg/oqf7+C6Rm0DuhN0ukbELlCJOkfI21NrFaRhzOoNPTAXMQXcT0xreXYRk+Sn7bnXSs869U88pMiH2sKef6kMlq/6vmOMFmleYNPVq2umekE4lgztMucF2S2q99zCZcMyBCbxNfZXdTN/kEZGUusmjMacV0KAh4mU38RBbe5lrQ0OEa1aeNt/2QlFJPIpf/9cE5mkdJ/Ca4W3lQbF1t8PXU=
-  app: blooming-plains-77488
-  on:
-    repo: JTGeek/node-shopping-list-integration-tests
